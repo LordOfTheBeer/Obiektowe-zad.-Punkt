@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8KxqEZ/JejVE8WCqdYo8WOTEZVjbMwm+OXXF5llojNvDMMDHVjjOLQL9X8Lka3ZJXMS3RUVELuSQz0V8hh8AzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\Desktop\\Obiektowka cw 1\\Zad Punkt\\Zad Punkt\\Zad Punkt.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

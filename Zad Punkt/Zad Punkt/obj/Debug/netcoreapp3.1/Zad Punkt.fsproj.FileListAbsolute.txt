@@ -1,0 +1,27 @@
+C:\Users\Student\Desktop\Obiektowka cw 1\Zad Punkt\Zad Punkt\bin\Debug\netcoreapp3.1\Zad Punkt.exe
+C:\Users\Student\Desktop\Obiektowka cw 1\Zad Punkt\Zad Punkt\bin\Debug\netcoreapp3.1\Zad Punkt.deps.json
+C:\Users\Student\Desktop\Obiektowka cw 1\Zad Punkt\Zad Punkt\bin\Debug\netcoreapp3.1\Zad Punkt.runtimeconfig.json
+C:\Users\Student\Desktop\Obiektowka cw 1\Zad Punkt\Zad Punkt\bin\Debug\netcoreapp3.1\Zad Punkt.runtimeconfig.dev.json
+C:\Users\Student\Desktop\Obiektowka cw 1\Zad Punkt\Zad Punkt\bin\Debug\netcoreapp3.1\Zad Punkt.dll
+C:\Users\Student\Desktop\Obiektowka cw 1\Zad Punkt\Zad Punkt\bin\Debug\netcoreapp3.1\Zad Punkt.pdb
+C:\Users\Student\Desktop\Obiektowka cw 1\Zad Punkt\Zad Punkt\bin\Debug\netcoreapp3.1\FSharp.Core.dll
+C:\Users\Student\Desktop\Obiektowka cw 1\Zad Punkt\Zad Punkt\bin\Debug\netcoreapp3.1\cs\FSharp.Core.resources.dll
+C:\Users\Student\Desktop\Obiektowka cw 1\Zad Punkt\Zad Punkt\bin\Debug\netcoreapp3.1\de\FSharp.Core.resources.dll
+C:\Users\Student\Desktop\Obiektowka cw 1\Zad Punkt\Zad Punkt\bin\Debug\netcoreapp3.1\es\FSharp.Core.resources.dll
+C:\Users\Student\Desktop\Obiektowka cw 1\Zad Punkt\Zad Punkt\bin\Debug\netcoreapp3.1\fr\FSharp.Core.resources.dll
+C:\Users\Student\Desktop\Obiektowka cw 1\Zad Punkt\Zad Punkt\bin\Debug\netcoreapp3.1\it\FSharp.Core.resources.dll
+C:\Users\Student\Desktop\Obiektowka cw 1\Zad Punkt\Zad Punkt\bin\Debug\netcoreapp3.1\ja\FSharp.Core.resources.dll
+C:\Users\Student\Desktop\Obiektowka cw 1\Zad Punkt\Zad Punkt\bin\Debug\netcoreapp3.1\ko\FSharp.Core.resources.dll
+C:\Users\Student\Desktop\Obiektowka cw 1\Zad Punkt\Zad Punkt\bin\Debug\netcoreapp3.1\pl\FSharp.Core.resources.dll
+C:\Users\Student\Desktop\Obiektowka cw 1\Zad Punkt\Zad Punkt\bin\Debug\netcoreapp3.1\pt-BR\FSharp.Core.resources.dll
+C:\Users\Student\Desktop\Obiektowka cw 1\Zad Punkt\Zad Punkt\bin\Debug\netcoreapp3.1\ru\FSharp.Core.resources.dll
+C:\Users\Student\Desktop\Obiektowka cw 1\Zad Punkt\Zad Punkt\bin\Debug\netcoreapp3.1\tr\FSharp.Core.resources.dll
+C:\Users\Student\Desktop\Obiektowka cw 1\Zad Punkt\Zad Punkt\bin\Debug\netcoreapp3.1\zh-Hans\FSharp.Core.resources.dll
+C:\Users\Student\Desktop\Obiektowka cw 1\Zad Punkt\Zad Punkt\bin\Debug\netcoreapp3.1\zh-Hant\FSharp.Core.resources.dll
+C:\Users\Student\Desktop\Obiektowka cw 1\Zad Punkt\Zad Punkt\obj\Debug\netcoreapp3.1\Zad Punkt.fsprojAssemblyReference.cache
+C:\Users\Student\Desktop\Obiektowka cw 1\Zad Punkt\Zad Punkt\obj\Debug\netcoreapp3.1\Zad Punkt.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Obiektowka cw 1\Zad Punkt\Zad Punkt\obj\Debug\netcoreapp3.1\Zad Punkt.AssemblyInfo.fs
+C:\Users\Student\Desktop\Obiektowka cw 1\Zad Punkt\Zad Punkt\obj\Debug\netcoreapp3.1\Zad Punkt.fsproj.CopyComplete
+C:\Users\Student\Desktop\Obiektowka cw 1\Zad Punkt\Zad Punkt\obj\Debug\netcoreapp3.1\Zad Punkt.dll
+C:\Users\Student\Desktop\Obiektowka cw 1\Zad Punkt\Zad Punkt\obj\Debug\netcoreapp3.1\Zad Punkt.pdb
+C:\Users\Student\Desktop\Obiektowka cw 1\Zad Punkt\Zad Punkt\obj\Debug\netcoreapp3.1\Zad Punkt.genruntimeconfig.cache
